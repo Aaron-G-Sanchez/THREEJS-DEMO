@@ -1,10 +1,11 @@
+import { MyThree } from './components/Three'
 import './App.css'
 
 function App() {
   return (
     <>
       <div>
-        <h1>Scene Starts here!</h1>
+        <MyThree />
       </div>
     </>
   )
